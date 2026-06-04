@@ -269,19 +269,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "操作成功"
+            "value" : "操作完成"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "操作成功"
+            "value" : "操作完成"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "操作成功"
+            "value" : "操作完成"
           }
         }
       }
@@ -724,13 +724,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "數據庫文件將會自動同步到iCloud裏的'Off Day'文件夾。每天最多備份一次。"
+            "value" : "數據庫文件將會自動同步到iCloud裡的'Off Day'文件夾。每天最多備份一次。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "數據庫文件將會自動同步到iCloud裏的'Off Day'文件夾。每天最多備份一次。"
+            "value" : "數據庫文件將會自動同步到iCloud裡的'Off Day'文件夾。每天最多備份一次。"
           }
         }
       }
@@ -1093,13 +1093,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選中的日子將作爲休息日"
+            "value" : "選中的日子將作為休息日"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選中的日子將作爲休息日"
+            "value" : "選中的日子將作為休息日"
           }
         }
       }
@@ -1653,13 +1653,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "從%1$@到%2$@的用戶標註將全部更新爲%3$@"
+            "value" : "從%1$@到%2$@的用戶標註將全部更新為%3$@"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "從%1$@到%2$@的用戶標註將全部更新爲%3$@"
+            "value" : "從%1$@到%2$@的用戶標註將全部更新為%3$@"
           }
         }
       }
@@ -1693,13 +1693,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "從%1$@到%2$@的用戶標註將全部刪除，變爲空白"
+            "value" : "從%1$@到%2$@的用戶標註將全部刪除，變為空白"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "從%1$@到%2$@的用戶標註將全部刪除，變爲空白"
+            "value" : "從%1$@到%2$@的用戶標註將全部刪除，變為空白"
           }
         }
       }
@@ -1973,13 +1973,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此處修改將會覆蓋對應日期段裏的全部用戶標註，請謹慎修改。"
+            "value" : "此處修改將會覆蓋對應日期段裡的全部用戶標註，請謹慎修改。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此處修改將會覆蓋對應日期段裏的全部用戶標註，請謹慎修改。"
+            "value" : "此處修改將會覆蓋對應日期段裡的全部用戶標註，請謹慎修改。"
           }
         }
       }
@@ -2333,13 +2333,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%i"
+            "value" : "%i年"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%i"
+            "value" : "%i年"
           }
         }
       }
@@ -3173,13 +3173,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "无信息"
+            "value" : "無信息"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "无信息"
+            "value" : "無信息"
           }
         }
       }
@@ -3493,13 +3493,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "標記爲"
+            "value" : "標記為"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "標記爲"
+            "value" : "標記為"
           }
         }
       }
@@ -3728,19 +3728,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "获取 ${date}一天的详情"
+            "value" : "获取 ${date} 的详情"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "獲取 ${date}一日的詳情"
+            "value" : "獲取 ${date} 的詳情"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "獲取 ${date}一日的詳情"
+            "value" : "獲取 ${date} 的詳情"
           }
         }
       }
@@ -3774,13 +3774,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "如果結果爲 true 則是衝突日。衝突日意味着這一日的用戶標註信息（可選）、公共假期模板以及基礎日曆對於“這一日是否是休息日”的判斷是不同的。"
+            "value" : "如果結果為 true 則是衝突日。衝突日意味着這一日的用戶標註信息（可選）、公共假期模板以及基礎日曆對於“這一日是否是休息日”的判斷是不同的。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "如果結果爲 true 則是衝突日。衝突日意味着這一日的用戶標註信息（可選）、公共假期模板以及基礎日曆對於“這一日是否是休息日”的判斷是不同的。"
+            "value" : "如果結果為 true 則是衝突日。衝突日意味着這一日的用戶標註信息（可選）、公共假期模板以及基礎日曆對於“這一日是否是休息日”的判斷是不同的。"
           }
         }
       }
@@ -3814,13 +3814,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "如果結果爲 true 則是休息日，反之則是工作日。"
+            "value" : "如果結果為 true 則是休息日，反之則是工作日。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "如果結果爲 true 則是休息日，反之則是工作日。"
+            "value" : "如果結果為 true 則是休息日，反之則是工作日。"
           }
         }
       }
@@ -4534,13 +4534,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "根據日期更新文本備註爲備註內容，如果備註內容爲空，且對應日期已有文本備註，則會刪除已有的文本備註。"
+            "value" : "根據日期更新文本備註為備註內容，如果備註內容為空，且對應日期已有文本備註，則會刪除已有的文本備註。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "根據日期更新文本備註爲備註內容，如果備註內容爲空，且對應日期已有文本備註，則會刪除已有的文本備註。"
+            "value" : "根據日期更新文本備註為備註內容，如果備註內容為空，且對應日期已有文本備註，則會刪除已有的文本備註。"
           }
         }
       }
@@ -4614,13 +4614,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更新${date}的備註爲${content}"
+            "value" : "更新${date}的備註為${content}"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更新${date}的備註爲${content}"
+            "value" : "更新${date}的備註為${content}"
           }
         }
       }
@@ -4728,19 +4728,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "一天的详情"
+            "value" : "日期详情"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "一日的詳情"
+            "value" : "日期詳情"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "一日的詳情"
+            "value" : "日期詳情"
           }
         }
       }
@@ -4768,19 +4768,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你能根据日期获得这天的详情"
+            "value" : "你能根据日期获取对应日期的详情。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你能根據日期獲得這日的詳情"
+            "value" : "你能根據日期獲取對應日期的詳情。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你能根據日期獲得這日的詳情"
+            "value" : "你能根據日期獲取對應日期的詳情。"
           }
         }
       }
@@ -4808,19 +4808,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "获取一天的详情"
+            "value" : "获取日期详情"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "獲取一日的詳情"
+            "value" : "獲取日期詳情"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "獲取一日的詳情"
+            "value" : "獲取日期詳情"
           }
         }
       }
@@ -4888,19 +4888,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "公共节假日名字"
+            "value" : "公共假期名称"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "公共節假日名字"
+            "value" : "公共假期名稱"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "公共節假日名字"
+            "value" : "公共假期名稱"
           }
         }
       }
@@ -4928,19 +4928,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "公共节假日模板休息日状态"
+            "value" : "公共假期模板休息日状态"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "公共節假日模板休息日狀態"
+            "value" : "公共假期模板休息日狀態"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "公共節假日模板休息日狀態"
+            "value" : "公共假期模板休息日狀態"
           }
         }
       }
@@ -4968,19 +4968,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "一天的详情"
+            "value" : "日期详情"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "一日的詳情"
+            "value" : "日期詳情"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "一日的詳情"
+            "value" : "日期詳情"
           }
         }
       }
@@ -5214,13 +5214,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "用户標註"
+            "value" : "用戶標註"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "用户標註"
+            "value" : "用戶標註"
           }
         }
       }
@@ -5294,13 +5294,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "用户標註類型"
+            "value" : "用戶標註類型"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "用户標註類型"
+            "value" : "用戶標註類型"
           }
         }
       }
@@ -5334,13 +5334,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更新用户標註"
+            "value" : "更新用戶標註"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更新用户標註"
+            "value" : "更新用戶標註"
           }
         }
       }
@@ -5374,13 +5374,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "用户標註"
+            "value" : "用戶標註"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "用户標註"
+            "value" : "用戶標註"
           }
         }
       }
@@ -5688,19 +5688,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "刷新所有已订阅的公共假日模板"
+            "value" : "刷新所有已订阅的公共假期模板"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理所有已訂閱的公眾假期範本"
+            "value" : "重新整理所有已訂閱的公共假期模板"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理所有已訂閱的公眾假期範本"
+            "value" : "重新整理所有已訂閱的公共假期模板"
           }
         }
       }
@@ -5814,13 +5814,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理已訂閱的範本"
+            "value" : "重新整理已訂閱的模板"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理已訂閱的範本"
+            "value" : "重新整理已訂閱的模板"
           }
         }
       }
@@ -7182,13 +7182,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "刷新"
+            "value" : "重新整理"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "刷新"
+            "value" : "重新整理"
           }
         }
       }
@@ -7816,19 +7816,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "公众假期模板"
+            "value" : "公共假期模板"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "公衆假期模板"
+            "value" : "公共假期模板"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "公衆假期模板"
+            "value" : "公共假期模板"
           }
         }
       }
@@ -8569,7 +8569,7 @@
               "other" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "你的假期模板将在%i天后到期，请及时更新假期模板。"
+                  "value" : "你的公共假期模板将在%i天后到期，请及时更新。"
                 }
               }
             }
@@ -8581,7 +8581,7 @@
               "other" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "你的假期模板將在%i天后到期，請及時更新假期模板。"
+                  "value" : "你的公共假期模板將在%i天後到期，請及時更新。"
                 }
               }
             }
@@ -8593,7 +8593,7 @@
               "other" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "你的假期模板將在%i天后到期，請及時更新假期模板。"
+                  "value" : "你的公共假期模板將在%i天後到期，請及時更新。"
                 }
               }
             }
@@ -8870,13 +8870,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "啓用"
+            "value" : "啟用"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "啓用"
+            "value" : "啟用"
           }
         }
       }
@@ -9030,13 +9030,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "啓用"
+            "value" : "啟用"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "啓用"
+            "value" : "啟用"
           }
         }
       }
@@ -9190,13 +9190,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "啓用"
+            "value" : "啟用"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "啓用"
+            "value" : "啟用"
           }
         }
       }
@@ -9830,13 +9830,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "广西壮族自治区节假日安排"
+            "value" : "廣西壯族自治區節假日安排"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "广西壮族自治区节假日安排"
+            "value" : "廣西壯族自治區節假日安排"
           }
         }
       }
@@ -9990,13 +9990,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "中国内地节假日安排"
+            "value" : "中國內地節假日安排"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "中国内地节假日安排"
+            "value" : "中國內地節假日安排"
           }
         }
       }
@@ -10070,13 +10070,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "宁夏回族自治区节假日安排"
+            "value" : "寧夏回族自治區節假日安排"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "宁夏回族自治区节假日安排"
+            "value" : "寧夏回族自治區節假日安排"
           }
         }
       }
@@ -10150,13 +10150,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新疆维吾尔自治区节假日安排"
+            "value" : "新疆維吾爾自治區節假日安排"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新疆维吾尔自治区节假日安排"
+            "value" : "新疆維吾爾自治區節假日安排"
           }
         }
       }
@@ -10230,13 +10230,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "西藏自治区节假日安排"
+            "value" : "西藏自治區節假日安排"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "西藏自治区节假日安排"
+            "value" : "西藏自治區節假日安排"
           }
         }
       }
@@ -10304,7 +10304,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "香港公眾假期"
+            "value" : "香港公众假期"
           }
         },
         "zh-Hant" : {
@@ -10510,7 +10510,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "覆盖2024-2026年"
+            "value" : "涵蓋2024-2026年"
           }
         },
         "zh-HK" : {
@@ -10544,7 +10544,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "澳門公眾假期 + 公共行政工作人員補假日"
+            "value" : "澳门公众假期 + 公共行政工作人员补假日"
           }
         },
         "zh-Hant" : {
@@ -10624,7 +10624,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "澳門強制性假日"
+            "value" : "澳门强制性假日"
           }
         },
         "zh-Hant" : {
@@ -10704,7 +10704,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "澳門公眾假期"
+            "value" : "澳门公众假期"
           }
         },
         "zh-Hant" : {
@@ -11070,7 +11070,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "覆盖2024-2026年"
+            "value" : "涵蓋2024-2026年"
           }
         },
         "zh-HK" : {
@@ -11424,19 +11424,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更新订阅"
+            "value" : "刷新订阅"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更新訂閱"
+            "value" : "重新整理訂閱"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更新訂閱"
+            "value" : "重新整理訂閱"
           }
         }
       }
@@ -12704,19 +12704,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入假期模板 JSON 文件的 URL"
+            "value" : "输入公共假期模板 JSON 文件的 URL"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入假期模板 JSON 檔案的 URL"
+            "value" : "輸入公共假期模板 JSON 檔案的 URL"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入假期模板 JSON 檔案的 URL"
+            "value" : "輸入公共假期模板 JSON 檔案的 URL"
           }
         }
       }
@@ -15910,13 +15910,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "開啓自動化"
+            "value" : "開啟自動化"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "開啓自動化"
+            "value" : "開啟自動化"
           }
         }
       }
@@ -16070,13 +16070,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "點擊啓用通知"
+            "value" : "點擊啟用通知"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "點擊啓用通知"
+            "value" : "點擊啟用通知"
           }
         }
       }
@@ -16110,13 +16110,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "啓用公共假期提前通知"
+            "value" : "啟用公共假期提前通知"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "啓用公共假期提前通知"
+            "value" : "啟用公共假期提前通知"
           }
         }
       }
@@ -16391,13 +16391,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将${date}用户标注更新为${mark}？"
+            "value" : "將${date}用戶標註更新為${mark}？"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将${date}用户标注更新为${mark}？"
+            "value" : "將${date}用戶標註更新為${mark}？"
           }
         }
       }
