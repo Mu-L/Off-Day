@@ -5694,13 +5694,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理所有已訂閱的公共假期模板"
+            "value" : "刷新所有已訂閱的公共假期模板"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理所有已訂閱的公共假期模板"
+            "value" : "刷新所有已訂閱的公共假期模板"
           }
         }
       }
@@ -5734,13 +5734,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "是否同時重新整理已暫停的訂閱"
+            "value" : "是否同時刷新已暫停的訂閱"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "是否同時重新整理已暫停的訂閱"
+            "value" : "是否同時刷新已暫停的訂閱"
           }
         }
       }
@@ -5814,13 +5814,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理已訂閱的模板"
+            "value" : "刷新已訂閱的模板"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理已訂閱的模板"
+            "value" : "刷新已訂閱的模板"
           }
         }
       }
@@ -5854,13 +5854,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理訂閱"
+            "value" : "刷新訂閱"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理訂閱"
+            "value" : "刷新訂閱"
           }
         }
       }
@@ -7182,13 +7182,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理"
+            "value" : "刷新"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理"
+            "value" : "刷新"
           }
         }
       }
@@ -11430,13 +11430,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理訂閱"
+            "value" : "刷新訂閱"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理訂閱"
+            "value" : "刷新訂閱"
           }
         }
       }
@@ -12510,13 +12510,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理"
+            "value" : "刷新"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新整理"
+            "value" : "刷新"
           }
         }
       }
