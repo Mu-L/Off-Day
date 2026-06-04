@@ -216,7 +216,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "操作失敗"
+            "value" : "操作に失敗しました"
           }
         },
         "ko" : {
@@ -921,7 +921,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "휴식"
+            "value" : "휴무"
           }
         },
         "zh-Hans" : {
@@ -1161,7 +1161,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "표준"
+            "value" : "고정 휴일"
           }
         },
         "zh-Hans" : {
@@ -2281,7 +2281,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "현재"
+            "value" : "올해"
           }
         },
         "zh-Hans" : {
@@ -3121,7 +3121,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%2$@이 날은 %1$@입니다. 기본 캘린더 일 유형: %3$@, 공휴일 일 유형: %4$@, 사용자 지정 일 유형: %5$@, %6$@"
+            "value" : "%2$@이 날짜는 %1$@입니다. 기본 캘린더 날짜 유형: %3$@, 공휴일 날짜 유형: %4$@, 사용자 지정 날짜 유형: %5$@, %6$@"
           }
         },
         "zh-Hans" : {
@@ -3281,7 +3281,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "비어 있음"
+            "value" : "공백"
           }
         },
         "zh-Hans" : {
@@ -3361,7 +3361,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일 유형"
+            "value" : "날짜 유형"
           }
         },
         "zh-Hans" : {
@@ -3722,7 +3722,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "${date}의 일 세부 정보 가져오기"
+            "value" : "${date}의 날짜 상세 정보 가져오기"
           }
         },
         "zh-Hans" : {
@@ -4716,13 +4716,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日の詳細"
+            "value" : "日付の詳細"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일 세부 정보"
+            "value" : "날짜 상세 정보"
           }
         },
         "zh-Hans" : {
@@ -4756,13 +4756,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日付で日の詳細を取得できます。"
+            "value" : "日付で詳細を取得できます。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "날짜로 일 세부 정보를 가져올 수 있습니다."
+            "value" : "날짜로 상세 정보를 가져올 수 있습니다."
           }
         },
         "zh-Hans" : {
@@ -4796,13 +4796,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日の詳細を取得"
+            "value" : "日付の詳細を取得"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일 세부 정보 가져오기"
+            "value" : "날짜 상세 정보 가져오기"
           }
         },
         "zh-Hans" : {
@@ -4956,13 +4956,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日の詳細"
+            "value" : "日付の詳細"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일 세부 정보"
+            "value" : "날짜 상세 정보"
           }
         },
         "zh-Hans" : {
@@ -5082,7 +5082,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "비어 있음"
+            "value" : "공백"
           }
         },
         "zh-Hans" : {
@@ -5522,7 +5522,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "다음 휴일 세부 정보 가져오기"
+            "value" : "다음 휴일 상세 정보 가져오기"
           }
         },
         "zh-Hans" : {
@@ -5602,7 +5602,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "다음 근무일 세부 정보 가져오기"
+            "value" : "다음 근무일 상세 정보 가져오기"
           }
         },
         "zh-Hans" : {
@@ -6530,7 +6530,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일 유형 코드: 0 = 휴일, 1 = 근무일."
+            "value" : "날짜 유형 코드: 0 = 휴일, 1 = 근무일."
           }
         },
         "zh-Hans" : {
@@ -8124,13 +8124,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "${date}以降の次の休日詳細"
+            "value" : "${date}以降の次の休日の詳細"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "${date} 이후 다음 휴일 세부 정보"
+            "value" : "${date} 이후 다음 휴일 상세 정보"
           }
         },
         "zh-Hans" : {
@@ -8164,13 +8164,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "${date}以降の次の出勤日詳細"
+            "value" : "${date}以降の次の出勤日の詳細"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "${date} 이후 다음 근무일 세부 정보"
+            "value" : "${date} 이후 다음 근무일 상세 정보"
           }
         },
         "zh-Hans" : {
@@ -10538,7 +10538,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "마카오 공휴일(공공행정 근로자 보상휴일 포함)"
+            "value" : "마카오 공휴일(공공행정 직원 보상휴일 포함)"
           }
         },
         "zh-Hans" : {
@@ -10612,13 +10612,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "マカオの強制休日"
+            "value" : "マカオの強制性休日"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "마카오 의무 휴일"
+            "value" : "마카오 강제 휴일"
           }
         },
         "zh-Hans" : {
@@ -12692,13 +12692,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "祝日プランのJSON URLを入力"
+            "value" : "祝日テンプレートのJSON URLを入力"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "휴일 계획 JSON 파일의 URL을 입력하세요"
+            "value" : "공휴일 템플릿 JSON 파일의 URL을 입력하세요"
           }
         },
         "zh-Hans" : {
@@ -12772,13 +12772,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "プランを購読"
+            "value" : "テンプレートを購読"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "계획 구독"
+            "value" : "템플릿 구독"
           }
         },
         "zh-Hans" : {
@@ -12972,7 +12972,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "中国カレンダー"
+            "value" : "中国暦"
           }
         },
         "ko" : {
@@ -13138,7 +13138,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "비어 있음"
+            "value" : "없음"
           }
         },
         "zh-Hans" : {
